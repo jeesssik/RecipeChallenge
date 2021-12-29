@@ -1,0 +1,16 @@
+
+
+
+h1, h2,h4{
+    font-family: 'Pushster', cursive;
+}
+
+label{
+    font-family: 'Sarabun', sans-serif;
+    font-style: italic;
+}
+
+p{
+    font-family: 'Sarabun', sans-serif;
+    color: black !important;
+}
